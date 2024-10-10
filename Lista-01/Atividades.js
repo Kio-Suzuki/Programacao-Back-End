@@ -114,7 +114,6 @@ function gerarObjetos(n) {
   return objetos;
 }
 
-
 // 9. Escreva uma função que receba a lista de objetos gerados anteriormente e calcule a média de idades das pessoas presentes na lista.
 
 function mediaIdades(objetos) {
