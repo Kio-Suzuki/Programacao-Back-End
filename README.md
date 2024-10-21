@@ -19,8 +19,8 @@
 
 
 <p align="center">
-    <img src="https://github.com/Kio-Suzuki/kio-suzuki.github.io/blob/main/assets/Home.png?raw=true" alt="Home Page" width="500px">
-    <img src="https://github.com/Kio-Suzuki/kio-suzuki.github.io/blob/main/assets/instituicoes.png?raw=true" alt="Home Page" width="500px"
+    <img src="https://github.com/Kio-Suzuki/Programacao-Back-End/blob/main/Atividade-02/img/Captura%20de%20tela%202024-10-21%20202205.png" alt="Home Page" width="700px"> </br></br>
+    <img src="https://github.com/Kio-Suzuki/Programacao-Back-End/blob/main/Atividade-02/img/iPhone-13-PRO-127.0.0.1.png" alt="Home Page" height="500px"
 </p>
 
 <h2 id="started">📌 About</h2>
@@ -48,7 +48,7 @@ To-Do List
 
 Here you will explain how other developers can contribute to your project. For example, explaining how can create their branches, which patterns to follow and how to open an pull request
 
-1. `git clone https://github.com/Kio-Suzuki/kio-suzuki.github.io`
+1. `git clone https://github.com/Kio-Suzuki/Programacao-Back-End`
 2. `git checkout -b feature/NAME`
 3. Follow commit patterns
 4. Open a Pull Request explaining the problem solved or feature made, if exists, append screenshot of visual modifications and wait for the review!
