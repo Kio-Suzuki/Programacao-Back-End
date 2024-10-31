@@ -3,7 +3,7 @@
 [JavaScript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
 
 [PROJECT__BADGE]: https://img.shields.io/badge/📱Visit_this_project-000?style=for-the-badge&logo=project
-[PROJECT__URL]
+
 
 <h1 align="center" style="font-weight: bold;">To-Do List ✔️</h1>
 
@@ -27,7 +27,7 @@
 
 To-Do List 
 
-[![project][PROJECT__BADGE]][PROJECT__URL]
+[![project][PROJECT__BADGE]]
 
 <h2 id="colab">🤝 Collaborators</h2>
 
